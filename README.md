@@ -1,6 +1,6 @@
 # MODBUS CRC16
 
-This is a project to perform CRC16 based in (LacobusVentura) [https://github.com/LacobusVentura/MODBUS-CRC16] tests cases.
+This is a project to perform CRC16 based in [LacobusVentura] (https://github.com/LacobusVentura/MODBUS-CRC16) tests cases.
 
 CRC16 Modbus is a cyclic redundancy check algorithm that is widely used in serial communication protocols, especially in the Modbus protocol. It is a checksum that is calculated over a block of data to ensure its integrity and detect any errors during transmission.
 S
